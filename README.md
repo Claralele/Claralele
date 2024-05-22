@@ -11,5 +11,4 @@ Meu nome é Clara Letícia
   00001104362958sp@al.educacao.sp.gov.br
 
   @Claralele
-
-![](https://tenor.com/pt-PT/view/naruto-pain-shippuden-ed-hand-to-hand-gif-4216778021463361933)
+  ![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
