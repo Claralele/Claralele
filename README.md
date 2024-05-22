@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**Claralele/Claralele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Clara Letícia
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📪
+
+  00001104362958sp@al.educacao.sp.gov.br
+
+  @Claralele
+
+![](https://tenor.com/pt-PT/view/naruto-pain-shippuden-ed-hand-to-hand-gif-4216778021463361933)
